@@ -1,0 +1,262 @@
+CCS Diagnosis Code,Diagnosis Definition,CCS Procedure Code,Procedure Definition
+0,No diagnosis,0,No procedure
+1,Tuberculosis,1,Incision and excision of CNS
+2,Septicemia (except in labor),2,"Insertion, replacement, or removal of extracranial ventricular shunt"
+3,"Bacterial infection, unspecified site",3,"Laminectomy, excision intervertebral disc"
+4,Mycoses,4,Diagnostic spinal tap
+5,HIV infection,5,Insertion of catheter or spinal stimulator and injection into spinal canal
+6,Hepatitis,6,Decompression peripheral nerve
+7,Viral infection,7,Other diagnostic nervous system procedures
+8,"Other infections, including parasiticn",8,Other non-OR or closed therapeutic nervous system procedures
+9,Sexually transmitted infections (not HIV or hepatitis),9,Other OR therapeutic nervous system procedures
+10,Immunizations and screening for infectious disease,10,"Thyroidectomy, partial or complete"
+11,Cancer of head and neck,11,Diagnostic endocrine procedures
+12,Cancer of esophagus,12,Other therapeutic endocrine procedures
+13,Cancer of stomach,13,Corneal transplant
+14,Cancer of colon,14,Glaucoma procedures
+15,Cancer of rectum and anus,15,Lens and cataract procedures
+16,Cancer of liver and intrahepatic bile duct,16,"Repair of retinal tear, detachment"
+17,Cancer of pancreas,17,Destruction of lesion of retina and choroid
+18,"Cancer of other GI organs, peritoneum",18,Diagnostic procedures on eye
+19,"Cancer of bronchus, lung",19,"Other therapeutic procedures on eyelids, conjunctiva, cornea"
+20,"Cancer, other respiratory and intra thoracic",20,Other intraocular therapeutic procedures
+21,Cancer of bone and connective tissue,21,Other extraocular muscle and orbit therapeutic procedures
+22,Melanomas of skin,22,Tympanoplasty
+23,Other non-epithelial cancer of skin,23,Myringotomy
+24,Cancer of breast,24,Mastoidectomy
+25,Cancer of uterus,25,Diagnostic procedures on ear
+26,Cancer of cervix,26,Other therapeutic ear procedures
+27,Cancer of ovary,27,Control of epistaxis
+28,Cancer of other female genital organs,28,Plastic procedures on nose
+29,Cancer of prostate,29,Dental procedures
+30,Cancer of testis,30,Tonsillectomy and/or adenoidectomy
+31,Cancer of other male genital organs,31,"Diagnostic procedures on nose, mouth and pharynx"
+32,Cancer of bladder,32,"Other non-OR therapeutic procedures on nose, mouth and pharynx"
+33,Cancer of kidney and renal pelvis,33,"Other OR therapeutic procedures on nose, mouth and pharynx"
+34,Cancer of other urinary organs,34,"Tracheostomy, temporary and permanent"
+35,Cancer of brain and nervous system,35,Tracheoscopy and laryngoscopy with biopsy
+36,Cancer of thyroid,36,Lobectomy or pneumonectomy
+37,Hodgkins disease,37,Diagnostic bronchoscopy and biopsy of bronchus
+38,Non-Hodgkins lymphoma,38,Other diagnostic procedures on lung and bronchus
+39,Leukemias,39,"Incision of pleura, thoracentesis, chest drainage"
+40,Multiple myeloma,40,Other diagnostic procedures of respiratory tract and mediastinum
+41,"Cancer, other and unspecified primary",41,Other non-OR therapeutic procedures on respiratory system
+42,Secondary malignancies,42,Other OR therapeutic procedures on respiratory system
+43,Malignant neoplasm without specification of site,43,Heart valve procedures
+44,Neoplasms of unspecified nature or uncertain behavior,44,Coronary artery bypass graft (CABG)
+45,"Maintenance chemotherapy, radiotherapy",45,Percutaneous transluminal coronary angioplasty (PTCA)
+46,Benign neoplasm of uterus,46,Coronary thrombolysis
+47,Other and unspecified benign neoplasm,47,"Diagnostic cardiac catheterization, coronary arteriography"
+48,Thyroid disorders,48,"Insertion, revision, replacement, removal of cardiac pacemaker or cardioverter/defibrillator"
+49,Diabetes mellitus without complication,49,Other OR heart procedures
+50,Diabetes mellitus with complications,50,Extracorporeal circulation auxiliary to open heart procedures
+51,Other endocrine disorders,51,"Endarterectomy, vessel of head and neck"
+52,Nutritional deficiencies,52,"Aortic resection, replacement or anastomosis"
+53,Disorders of lipid metabolism,53,"Varicose vein stripping, lower limb"
+54,Gout and other crystal arthropathies,54,"Other vascular catheterization, not heart"
+55,Fluid and electrolyte disorders,55,Peripheral vascular bypass
+56,Cystic fibrosis,56,"Other vascular bypass and shunt, not heart"
+57,Immunity disorders,57,"Creation, revision and removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis"
+58,"Other nutritional, endocrine, and metabolic disorders",58,Hemodialysis
+59,Deficiency and other anemia,59,Other OR procedures on vessels of head and neck
+60,Acute posthemorrhagic anemia,60,Embolectomy and endarterectomy of lower limbs
+61,Sickle cell anemia,61,Other OR procedures on vessels other than head and neck
+62,Coagulation and hemorrhagic disorders,62,Other diagnostic cardiovascular procedures
+63,Diseases of white blood cells,63,Other non-OR therapeutic cardiovascular procedures
+64,Other hematologic conditions,64,Bone marrow transplant
+65,Mental retardation,65,Bone marrow biopsy
+66,Alcohol-related mental disorders,66,Procedures on spleen
+67,Substance-related mental disorders,67,"Other therapeutic procedures, hemic and lymphatic system"
+68,Senility and organic mental disorders,68,Injection or ligation of esophageal varices
+69,Affective disorders,69,Esophageal dilatation
+70,Schizophrenia and related disorders,70,"Upper gastrointestinal endoscopy, biopsy"
+71,Other psychoses,71,"Gastrostomy, temporary and permanent"
+72,"Anxiety, somatoform, dissociative, and personality disorders",72,"Colostomy, temporary and permanent"
+73,Preadult disorders,73,Ileostomy and other enterostomy
+74,Other mental conditions,74,"Gastrectomy, partial and total"
+75,"Personal history of mental disorder, mental and behavioral problems",75,Small bowel resection
+76,Meningitis (except by TB or STDs),76,Colonoscopy and biopsy
+77,Encephalitis (except by TB or STDs),77,Proctoscopy and anorectal biopsy
+78,Other CNS infection and poliomyelitis,78,Colorectal resection
+79,Parkinsons disease,79,Local excision of large intestine lesion (not endoscopic)
+80,Multiple sclerosiss,80,Appendectomy
+81,Other hereditary and degenerative nervous system conditions,81,Hemorrhoid procedures
+82,Paralysis,82,Endoscopic retrograde cannulation of pancreas (ERCP)
+83,"Epilepsy, convulsions",83,Biopsy of liver
+84,"Headache, including migraine",84,Cholecystectomy and common duct exploration
+85,"Coma, stupor, and brain damage",85,Inguinal and femoral hernia repair
+86,Cataract,86,Other hernia repair
+87,"Retinal detachments, defects, vascular occlusion,and retinopathy<",87,Laparoscopy
+88,Glaucoma,88,Abdominal paracentesis
+89,Blindness and vision defects,89,Exploratory laparotomy
+90,"Inflammation, infection of eye (no TB or STD s)",90,"Excision, lysis peritoneal adhesions"
+91,Other eye disorders,91,Peritoneal dialysis
+92,Otitis media and related conditions,92,Other bowel diagnostic procedures
+93,Conditions associated with dizziness or vertigo,93,Other non-OR upper GI therapeutic procedures
+94,Other ear and sense organ disorders,94,Other OR upper GI therapeutic procedures
+95,Other nervous system disorders,95,Other non-OR lower GI therapeutic procedures
+96,Heart valve disorders,96,Other OR lower GI therapeutic procedures
+97,"Peri-, endo-, and myocarditis, cardiomyopathy(no TB or STDs)",97,Other gastrointestinal diagnostic procedures
+98,Essential hypertension,98,Other non-OR gastrointestinal therapeutic procedures
+99,Hypertension with complications and secondary hypertension,99,Other OR gastrointestinal therapeutic procedures
+100,Acute myocardial infarction,100,Endoscopy and endoscopic biopsy of the urinary tract
+101,Coronary atherosclerosis and other heart disease,101,"Transurethral excision, drainage, or removal urinary obstruction"
+102,Nonspecific chest pain,102,Ureteral catheterization
+103,Pulmonary heart disease,103,Nephrotomy and nephrostomy
+104,Other and ill-defined heart disease,104,"Nephrectomy, partial or complete"
+105,Conduction disorders,105,Kidney transplant
+106,Cardiac dysrhythmias,106,Genitourinary incontinence procedures
+107,Cardiac arrest and ventricular fibrillation,107,"Extracorporeal lithotripsy, urinary"
+108,"Congestive heart failure, nonhypertensive",108,Indwelling catheter
+109,Acute cerebrovascular disease,109,Procedures on the urethra
+110,Occlusion or stenosis of precerebral arteries,110,Other diagnostic procedures of urinary tract
+111,Other and ill-defined cerebrovascular disease,111,Other non-OR therapeutic procedures of urinary tract
+112,Transient cerebral ischemia,112,Other OR therapeutic procedures of urinary tract
+113,Late effects of cerebrovascular disease,113,Transurethral resection of prostate (TURP)
+114,Peripheral and visceral atherosclerosis,114,Open prostatectomy
+115,"Aortic, peripheral, and visceral artery aneurysms",115,Circumcision
+116,Aortic and peripheral arterial embolism or thrombosis,116,"Diagnostic procedures, male genital"
+117,Other circulatory disease,117,"Other non-OR therapeutic procedures, male genital"
+118,"Phlebitis, thrombophlebitis and thromboembolism",118,"Other OR therapeutic procedures, male genital"
+119,Varicose veins of lower extremity,119,"Oophorectomy, unilateral and bilateral"
+120,Hemorrhoids,120,Other operations on ovary
+121,Other diseases of veins and lymphatics,121,Ligation of fallopian tubes
+122,Pneumonia (except that caused by tuberculosis or STDs,122,Removal of ectopic pregnancy
+123,Influenza,123,Other operations on fallopian tubes
+124,Acute and chronic tonsillitis,124,"Hysterectomy, abdominal and vaginal"
+125,Acute bronchitis,125,Other excision of cervix and uterus
+126,Other upper respiratory infections,126,Abortion (termination of pregnancy)
+127,Chronic obstructive pulmonary disease and bronchiectasis,127,"Dilatation and curettage (D&C), aspiration after delivery or abortion"
+128,Asthma,128,Diagnostic dilatation and curettage (D&C)
+129,"Aspiration pneumonitis, food/vomitus",129,"Repair of cystocele and rectocele, obliteration of vaginal vault"
+130,"Pleurisy, pneumothorax, pulmonary collapse",130,"Other diagnostic procedures, female organs"
+131,"Respiratory failure, insufficiency, arrest (adult)",131,"Other non-OR therapeutic procedures, female organs"
+132,Lung disease due to external agents,132,"Other OR therapeutic procedures, female organs"
+133,Other lower respiratory disease,133,Episiotomy
+134,Other upper respiratory disease,134,Cesarean section
+135,Intestinal infection,135,"Forceps, vacuum, and breech delivery"
+136,Disorders of teeth and jaw,136,Artificial rupture of membranes to assist delivery
+137,"Diseases of mouth, excluding dental",137,Other procedures to assist delivery
+138,Esophageal disorders,138,Diagnostic amniocentesis
+139,Gastroduodenal ulcer (except hemorrhage),139,Fetal monitoring
+140,Gastritis and duodenitis,140,Repair of current obstetric laceration
+141,Other disorders of stomach and duodenum,141,Other therapeutic obstetrical procedures
+142,Appendicitis and other appendiceal conditions,142,Partial excision bone
+143,Abdominal hernia,143,Bunionectomy or repair of toe deformities
+144,Regional enteritis and ulcerative colitis,144,"Treatment, facial fracture or dislocation"
+145,Intestinal obstruction without hernia,145,"Treatment, fracture or dislocation of radius and ulna"
+146,Diverticulosis and diverticulitis,146,"Treatment, fracture or dislocation of hip and femur"
+147,Anal and rectal conditions,147,"Treatment, fracture or dislocation of lower extremity (other than hip or femur)"
+148,Peritonitis and intestinal abscess,148,Other fracture and dislocation procedure
+149,Biliary tract disease,149,Arthroscopy
+150,"Liver disease, alcohol-related",150,"Division of joint capsule, ligament or cartilage"
+151,Other liver diseases,151,Excision of semilunar cartilage of knee
+152,Pancreatic disorders (not diabetes),152,Arthroplasty knee
+153,Gastrointestinal hemorrhage,153,"Hip replacement, total and partial"
+154,Noninfectious gastroenteritis,154,Arthroplasty other than hip or knee
+155,Other gastrointestinal disorders,155,Arthrocentesis
+156,"Nephritis, nephrosis, renal sclerosis",156,"Injections and aspirations of muscles, tendons, bursa, joints and soft tissue"
+157,Acute and unspecified renal failure,157,Amputation of lower extremity
+158,Chronic renal failure,158,Spinal fusion
+159,Urinary tract infections,159,Other diagnostic procedures on musculoskeletal system
+160,Calculus of urinary tract,160,Other therapeutic procedures on muscles and tendons
+161,Other diseases of kidney and ureters,161,Other OR therapeutic procedures on bone
+162,Other diseases of bladder and urethra,162,Other OR therapeutic procedures on joints
+163,Genitourinary symptoms and ill-defined conditions,163,Other non-OR therapeutic procedures on musculoskeletal system
+164,Hyperplasia of prostate,164,Other OR therapeutic procedures on musculoskeletal system
+165,Inflammatory conditions of male genital organs,165,Breast biopsy and other diagnostic procedures on breast
+166,Other male genital disorders,166,"Lumpectomy, quadrantectomy of breast"
+167,Nonmalignant breast conditions,167,Mastectomy
+168,Inflammatory diseases of female pelvic organs,168,"Incision and drainage, skin and subcutaneous tissue"
+169,Endometriosis,169,"Debridement of wound, infection or burn"
+170,Prolapse of female genital organsn,170,Excision of skin lesion
+171,Menstrual disorders,171,Suture of skin and subcutaneous tissue
+172,Ovarian cyst,172,Skin graft
+173,Menopausal disorders,173,Other diagnostic procedures on skin and subcutaneous tissue
+174,Female infertility,174,Other non-OR therapeutic procedures on skin and breast
+175,Other female genital disorders,175,Other OR therapeutic procedures on skin and breast
+176,Contraceptive and procreative management,176,Other organ transplantation
+177,Spontaneous abortion,177,Computerized axial tomography (CT) scan head
+178,Induced abortion,178,CT scan chest
+179,Postabortion complications,179,CT scan abdomen
+180,Ectopic pregnancy,180,Other CT scan
+181,Other complications of pregnancy,181,Myelogram
+182,"Hemorrhage during pregnancy, abruptio placenta,placenta previa",182,Mammography
+183,"Hypertension complicating pregnancy, childbirth and the puerperium",183,Routine chest X-ray
+184,Early or threatened labor,184,Intraoperative cholangiogram
+185,Prolonged pregnancy,185,Upper gastrointestinal X-ray
+186,Diabetes complicating pregnancy or birth,186,Lower gastrointestinal X-ray
+187,"Malposition, malpresentation",187,Intravenous pyelogram
+188,"Fetopelvic disproportion, obstruction",188,Cerebral arteriogram
+189,Previous C-section,189,Contrast aortogram
+190,Fetal distress and abnormal forces of labor,190,Contrast arteriogram of femoral and lower extremity arteries
+191,Polyhydramnios and other problems of amniotic cavity,191,Arterio- or venogram (not heart and head)
+192,Umbilical cord complication,192,Diagnostic ultrasound of head and neck
+193,Trauma to perineum and vulva,193,Diagnostic ultrasound of heart (echocardiogram)
+194,Forceps delivery,194,Diagnostic ultrasound of gastrointestinal tract
+195,Other complications of birth,195,Diagnostic ultrasound of urinary tract
+196,Normal pregnancy and/or delivery,196,Diagnostic ultrasound of abdomen or retroperitoneum
+197,Skin and subcutaneous tissue infections,197,Other diagnostic ultrasound
+198,Other inflammatory condition of skin,198,Magnetic resonance imaging
+199,Chronic ulcer of skin,199,Electroencephalogram (EEG)
+200,Other skin disorders,200,Nonoperative urinary system measurements
+201,Infective arthritis and osteomyelitis,201,Cardiac stress tests
+202,Rheumatoid arthritis and related disease,202,Electrocardiogram
+203,Osteoarthritis,203,Electrographic cardiac monitoring
+204,Other non-traumatic joint disorders,204,Swan-Ganz catheterization for monitoring
+205,"Spondylosis, intervertebral disc disorders, back problems",205,Arterial blood gases
+206,Osteoporosis,206,"Microscopic examination (bacterial smear, culture, toxicology)"
+207,Pathological fracture,207,Radioisotope bone scan
+208,Acquired foot deformities,208,Radioisotope pulmonary scan
+209,Other acquired deformities,209,Radioisotope scan and function studies
+210,Systemic lupus erythematosus and connective tissue disorders,210,Other radioisotope scan
+211,Other connective tissue disease,211,Therapeutic radiology
+212,Other bone disease and musculoskeletal deformities,212,Diagnostic physical therapy
+213,Cardiac and circulatory congenital anomalies,213,"Physical therapy exercises, manipulation, and other procedures"
+214,Digestive congenital anomalies,214,"Traction, splints, and other wound care"
+215,Genitourinary congenital anomalies,215,Other physical therapy and rehabilitation
+216,Nervous system congenital anomalies,216,Respiratory intubation and mechanical ventilation
+217,Other congenital anomalies,217,Other respiratory therapy
+218,Liveborn,218,Psychological and psychiatric evaluation and therapy
+219,"Short gestation, L.B.Wt, and fetal growth retardation",219,Alcohol and drug rehabilitation/detoxification
+220,Intrauterine hypoxia and birth asphyxia,220,Ophthalmologic and otologic diagnosis and treatment
+221,Respiratory distress syndrome<,221,Nasogastric tube
+222,Hemolytic jaundice and perinatal jaundice,222,Blood transfusion
+223,Birth trauma,223,Enteral and parenteral nutrition
+224,Other perinatal conditions,224,Cancer chemotherapy
+225,"Joint disorders and dislocations, trauma-related",225,Conversion of cardiac rhythm
+226,Fracture of neck of femur (hip),226,Other diagnostic radiology and related techniques
+227,Spinal cord injury,227,"Other diagnostic procedures (interview, evaluation, consultation)"
+228,Skull and face fractures,228,Prophylactic vaccinations and inoculations
+229,Fracture of upper limb,229,Nonoperative removal of foreign body
+230,Fracture of lower limb,230,"Extracorporeal shock wave lithotripsy, other than urinary"
+231,Other fractures,231,Other therapeutic procedures
+232,Sprains and strains,232,Unclassified
+233,Intracranial injury,,
+234,Crushing injury or internal injury,,
+235,"Open wounds of head, neck, and trunk",,
+236,Open wounds of extremities,,
+237,"Complication of device, implant or graft",,
+238,Complications of surgical procedures or medical care,,
+239,"Superficial injury, contusion",,
+240,Burns,,
+241,Poisoning by psychotropic agents,,
+242,Poisoning by other medications and drugs,,
+243,Poisoning by nonmedicinal substances,,
+244,Other injuries and conditions due to external causes,,
+245,Syncope,,
+246,Fever of unknown origin,,
+247,Lymphadenitis,,
+248,Gangrene,,
+249,Shock,,
+250,Nausea and vomiting,,
+251,Abdominal pain,,
+252,Malaise and fatigue,,
+253,Allergic reactions,,
+254,"Rehabilitation care, fitting of prostheses",,
+255,Administrative/social admission,,
+256,Medical examination/evaluation,,
+257,Other aftercare,,
+258,Other screening for suspected conditions,,
+259,"Residual codes, unclassified",,
+260,E (external causes of injury and poisoning) codes,,
